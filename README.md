@@ -1,5 +1,5 @@
 # bioinformatics-bipolar-drug-discovery
-This repository aims to leverage bioinformatics techniques to identify potential drug targets for bipolar disorder, focusing on the protein Norepinephrine transporter.
+This repository aims to leverage bioinformatics techniques to explore proteins related bipolar disorder, focusing on the protein Norepinephrine transporter.
 
 ## References
 [Drug Discovery Using Machine Learning - Data Professor](https://www.youtube.com/watch?v=jBlTQjcKuaY&t=5075s) <br>
