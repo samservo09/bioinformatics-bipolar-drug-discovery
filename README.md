@@ -28,8 +28,9 @@ Based on model comparison, LGBMRegressor is the best model for the dataset. <br>
 - RMSE: 0.82
 
 ## Conclusion
-In conclusion, this project explored the biological data of Norepinephrine transporter using the drug discovery process in bioinformatics. From the analyzed descriptors in this dataset, the fact that LogP does not show a significant difference between the 'active' and 'inactive' groups suggests that hydrophobicity is not a key factor in determining bioactivity for this particular target. In this case, other molecular properties or structural features may play a more critical role in driving the observed activity. <br> 
-Note: The model built is not yet exported with pickle. Further hyperparameter tuning and data preprocessing is recommended for higher R-Squared.
+In conclusion, this project explored the biological data of Norepinephrine transporter using the drug discovery process in bioinformatics. From the analyzed descriptors in this dataset, the fact that LogP does not show a significant difference between the 'active' and 'inactive' groups suggests that hydrophobicity is not a key factor in determining bioactivity for this particular target. In this case, other molecular properties or structural features may play a more critical role in driving the observed activity. <br> <br>
+
+_Note:_ The model built is not yet exported with pickle. Further hyperparameter tuning and data preprocessing is recommended for higher R-Squared.
 
 ### References
 [Drug Discovery Using Machine Learning - Data Professor](https://www.youtube.com/watch?v=jBlTQjcKuaY&t=5075s) <br>
