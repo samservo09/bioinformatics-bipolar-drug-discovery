@@ -1,5 +1,5 @@
 # bioinformatics-bipolar-drug-discovery
-This repository aims to leverage bioinformatics techniques to explore proteins related to bipolar disorder, focusing on the protein Norepinephrine transporter.
+This repository aims to leverage bioinformatics techniques to explore proteins related to bipolar disorder, focusing on the protein norepinephrine transporter (NET).
 
 ## Background
 This is a drug discovery project which focuses on [Norepinephrine](https://my.clevelandclinic.org/health/articles/22610-norepinephrine-noradrenaline). It is involved with the mood disorder, Bipolar Disorder (BD). 
